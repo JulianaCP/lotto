@@ -1,0 +1,12 @@
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Semana 11\c# algoritmo lotto\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Semana 11\c# algoritmo lotto\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Semana 11\c# algoritmo lotto\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Semana 11\c# algoritmo lotto\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Semana 11\c# algoritmo lotto\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Semana 11\c# algoritmo lotto\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\Pruebas\Documents\3 Semestre\algoritmoLottoJulianaCampoParajeles\algoritmoLottoJulianaCampoParajeles\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\Pruebas\Documents\3 Semestre\algoritmoLottoJulianaCampoParajeles\algoritmoLottoJulianaCampoParajeles\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\Pruebas\Documents\3 Semestre\algoritmoLottoJulianaCampoParajeles\algoritmoLottoJulianaCampoParajeles\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\Pruebas\Documents\3 Semestre\algoritmoLottoJulianaCampoParajeles\algoritmoLottoJulianaCampoParajeles\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\Pruebas\Documents\3 Semestre\algoritmoLottoJulianaCampoParajeles\algoritmoLottoJulianaCampoParajeles\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\Pruebas\Documents\3 Semestre\algoritmoLottoJulianaCampoParajeles\algoritmoLottoJulianaCampoParajeles\lotto\lotto\obj\Debug\lotto.csprojResolveAssemblyReference.cache
